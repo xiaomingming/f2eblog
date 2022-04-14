@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 
-<!-- * 链接到我
+* 链接到我
   * [博客园地址](https://www.cnblogs.com/Can-daydayup/)
   * [Github地址](https://github.com/YSGStudyHards)
   * [知乎地址](https://www.zhihu.com/people/ysgdaydayup)
@@ -10,4 +10,4 @@
 
 <!-- * 友情链接
   * [Docsify](https://docsify.js.org/#/)
-  * [博客园](https://www.cnblogs.com/) -->
+  * [博客园](https://www.cnblogs.com/)

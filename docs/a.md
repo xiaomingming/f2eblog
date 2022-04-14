@@ -1,4 +1,4 @@
-# a
+# a <!-- {docsify-ignore-all} -->
 aaaa
 ## b
 bbbb
